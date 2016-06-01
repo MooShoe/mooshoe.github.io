@@ -1,0 +1,167 @@
+#top-nav {
+  background-color: transparent;
+  border-color: transparent;
+  color: white !important;
+}
+
+#nav {
+  width: 100%;
+  overflow: hidden;
+}
+
+#nav ul {
+  list-style: none;
+  position: relative;
+  float: left;
+  display: block;
+  left: 50%;
+}
+
+#nav ul li {
+  position: relative;
+  float: left;
+  display: block;
+  right: 50%;
+}
+
+#top {
+  height: 400px;
+  margin: 0px 0px 0px 0px;
+  background-image: url(http://www.pixeden.com/media/k2/galleries/214/001-blured-background-texture.jpg);
+  background-size: 100%;
+}
+
+.opensans-bold {
+  font-family: 'Open Sans';
+  font-weight: 700;
+}
+
+.menu-font {
+  font-family: 'Montserrat';
+  font-weight: 400px;
+}
+
+.affix {
+  top: 0;
+  width: 100%;
+  z-index: 1;
+}
+
+.affix + .stuff {
+  padding-top: 50px;
+}
+
+.affix-top {
+  width: 100%;
+}
+
+.affix-bottom {
+  width: 100%;
+  position: absolute;
+}
+
+.navbar {
+  margin: 0px 0px 0px 0px;
+  border-radius: 0px;
+}
+
+.navbar-brand {
+  color: white !important;
+}
+
+.navbar-nav li a {
+  color: white !important;
+}
+
+.jumbotron-text h1 {
+  margin: 70px 0px 0px 0px;
+  font-family: 'Open Sans';
+  font-weight: bold;
+  color: white !important;
+}
+
+.jumbotron-text h2 {
+  color: white;
+  font-family: 'Open Sans';
+}
+
+#about {
+  margin: 15px 10px 10px 10px;
+}
+
+#about .row .col-xs-7 {
+  text-align: right;
+}
+
+#about .row .col-xs-7 h3 {
+  font-family: 'Montserrat';
+  font-weight: 400px;
+}
+
+#services {
+  background-color: #EEE;
+}
+
+#services .container-fluid h2 {
+  font-family: 'Montserrat';
+}
+#service-tab-1 {
+  font-family: 'Open Sans';
+  text-align: center;
+}
+#service-tab-2 {
+  font-family: 'Open Sans';
+  text-align: center
+}
+#service-tab-1 .panel-heading {
+  font-family: 'Montserrat';
+}
+#projects h1 {
+  padding: 10px;
+  font-family: 'Montserrat';
+  text-align: center;
+}
+#projects p {
+  font-family: 'Open Sans';
+}
+#contact {
+  background-color: #262626;
+  color: white;
+}
+#contact h1 {
+  font-family: 'Montserrat';
+  text-align: center;
+  padding: 20px;
+}
+#contact h2 {
+  font-family: 'Montserrat';
+}
+.cool-button {
+  padding: 10px 20px 10px 20px;
+  font-family: 'Open Sans';
+  font-size: 30px;
+  background-color: #262628;
+  border-color: white;
+  color: white;
+  border-radius: 10px;
+  tansition: all 0.3s;
+  -webkit-transition: all 0.3s;
+  margin: 0px 0px 10px 0px;
+}
+.cool-button:hover {
+  background-color: white;
+  color: #262626;
+}
+#footer {
+  background-color: black;
+}
+
+#footer p {
+  color: white;
+  font-family: 'Montserrat';
+  padding: 10px 0px 0px 0px;
+}
+
+#footer a {
+  color: white;
+}
