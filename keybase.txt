@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/mooshoe
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://mooshoe.me
+  * I am mooshoe (https://keybase.io/mooshoe) on keybase.
+  * I have a public key ASAN0NFXi9cgT7eNn4DnwSntEQKZTDurkCnegrhhaPquhgo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01200dd0d1578bd7204fb78d9f80e7c129ed1102994c3bab9029de82b86168faae860a",
+            "host": "keybase.io",
+            "kid": "01200dd0d1578bd7204fb78d9f80e7c129ed1102994c3bab9029de82b86168faae860a",
+            "uid": "f7a6153eded92ce8a920202712e11719",
+            "username": "mooshoe"
+        },
+        "merkle_root": {
+            "ctime": 1496612135,
+            "hash": "5280717615121502fcb0dcbc8e98da4d73782e28b59422f79210e8d421df0d609acbb25e333637ffd943d3577e82267a20afd0f8e9efaa7e5edae1ae22eb83e4",
+            "hash_meta": "68317856a7b6a24bbafce5d7bf9cbda148a565273604df602b7226f53f785333",
+            "seqno": 1142874
+        },
+        "service": {
+            "hostname": "mooshoe.me",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.24"
+    },
+    "ctime": 1496612180,
+    "expire_in": 504576000,
+    "prev": "ac39c1d87a322fafd82ec7a5b1baf2c72ab07aca7ce64ad2619691ce5d9967ef",
+    "seqno": 3,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgDdDRV4vXIE+3jZ+A58Ep7RECmUw7q5Ap3oK4YWj6roYKp3BheWxvYWTFA0F7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwMGRkMGQxNTc4YmQ3MjA0ZmI3OGQ5ZjgwZTdjMTI5ZWQxMTAyOTk0YzNiYWI5MDI5ZGU4MmI4NjE2OGZhYWU4NjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMGRkMGQxNTc4YmQ3MjA0ZmI3OGQ5ZjgwZTdjMTI5ZWQxMTAyOTk0YzNiYWI5MDI5ZGU4MmI4NjE2OGZhYWU4NjBhIiwidWlkIjoiZjdhNjE1M2VkZWQ5MmNlOGE5MjAyMDI3MTJlMTE3MTkiLCJ1c2VybmFtZSI6Im1vb3Nob2UifSwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0OTY2MTIxMzUsImhhc2giOiI1MjgwNzE3NjE1MTIxNTAyZmNiMGRjYmM4ZTk4ZGE0ZDczNzgyZTI4YjU5NDIyZjc5MjEwZThkNDIxZGYwZDYwOWFjYmIyNWUzMzM2MzdmZmQ5NDNkMzU3N2U4MjI2N2EyMGFmZDBmOGU5ZWZhYTdlNWVkYWUxYWUyMmViODNlNCIsImhhc2hfbWV0YSI6IjY4MzE3ODU2YTdiNmEyNGJiYWZjZTVkN2JmOWNiZGExNDhhNTY1MjczNjA0ZGY2MDJiNzIyNmY1M2Y3ODUzMzMiLCJzZXFubyI6MTE0Mjg3NH0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJtb29zaG9lLm1lIiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMjQifSwiY3RpbWUiOjE0OTY2MTIxODAsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiYWMzOWMxZDg3YTMyMmZhZmQ4MmVjN2E1YjFiYWYyYzcyYWIwN2FjYTdjZTY0YWQyNjE5NjkxY2U1ZDk5NjdlZiIsInNlcW5vIjozLCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQBBHOXKQSDaMcBP8yWY4C7XQRf2o1WRlVXmZZcOWXJF4ndbDWlVXVGjbqKmbSNVkmUC6IJiWhNsjzHaizJ4azwyoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCAvks1r0K/NPyW1ztdwailQm0Q5SRww6eS1LQld8zabNKN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mooshoe
+
+==================================================================
