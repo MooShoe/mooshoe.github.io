@@ -10,35 +10,48 @@
         <meta name="theme-color" content="#FDF6E3" />
 
         <style>
+            :root {
+                --font-colors: hsl(0, 0%, 15%);
+                --link-colors: hsl(217, 71%, 30%);
+                --background-colors: #fcf5e3;
+                --scrollbar-track-colors: #e5dece;
+                --scrollbar-thumb-colors: #ccc5b7;
+            }
             .heading {
                 font-size: 25px;
             }
             tr {
-                font-size:20px;
+                font-size: 20px;
                 font-family: "Times New Roman";
+                color: var(--font-colors);
+            }
+            tr a {
+              color: var(--link-colors);
             }
             p {
                 font-size: 20px;
-                font-family: "Times New Roman";
+                font-family: 'Times New Roman', serif;
+                color: var(--font-colors);
             }
             li {
                 font-size: 20px;
+                color: var(--font-colors);
             }
             code a {
-                color: black;
+                color: var(--font-colors);
             }
             body {
                 margin: 0 20% 0 20%;
-                background-color: #FDF6E3;
+                background-color: var(--background-colors);
             }
             ::-webkit-scrollbar {
                 width: 10px;
             }
-            ::webkit-scrollbar-track {
-                background: #FDF6E3;
+            ::-webkit-scrollbar-track {
+                background: var(--scrollbar-track-colors);
             }
             ::-webkit-scrollbar-thumb {
-                background: #e3ddcc; 
+                background: var(--scrollbar-thumb-colors)
             }
             @media screen and (max-width: 590px) {
                 body {
@@ -46,13 +59,25 @@
                 }
             }
         </style>
+
+        <script>
+            var date = new Date();
+            if ( (date.getMonth() <= 3 && date.getDate() < 20) || (date.getMonth() >= 9 && date.getDay() >= 23)) {
+                var d = document.documentElement.style;
+                d.setProperty('--font-colors', 'hsl(0, 0%, 85%)');
+                d.setProperty('--link-colors', 'hsl(0, 0%, 65%)');
+                d.setProperty('--background-colors', '#2a2a2a');
+                d.setProperty('--scrollbar-track-colors', '#424242');
+                d.setProperty('--scrollbar-thumb-colors', '#5b5b5b');
+            }
+        </script>
     </head>
-    <body> 
+    <body>
         <p class="heading">hi im jacob and i like dog walking, music, and doing stuff with computers</p>
         <table>
             <thead>
                 <tr>
-                    <th>Contact Method</th>
+                    <th>Socials that I'm active on</th>
                     <th>Link</th>
                 </th>
             </thead>
@@ -65,10 +90,6 @@
                     <th>Discord</th>
                     <th>mooshoe#4045</th>
                 </tr>
-                 <tr>
-                    <th>Matrix (not active)</th>
-                     <th><a target="_blank" href="https://matrix.to/#/@mooshoe:matrix.org">@mooshoe:matrix.org</a></th>
-                </tr>
                 <tr>
                     <th>Github</th>
                     <th><a target="_blank" href="https://github.com/moojacob">github.com/moojacob</a></th>
@@ -77,9 +98,6 @@
                     <th>Email</th>
                     <th><a href="mailto:mooshoe@fastmail.com">mooshoe@fastmail.com</a></th>
                 </tr>
-                <tr>
-                    <th>Public Key</th>
-                <th><a href="public.txt">mooshoe.me/public.txt</a></th>
             </tbody>
         </table>
     </body>
@@ -87,9 +105,9 @@
     <p>I have two very distinct aliases on the internet — my private, only for "IRL"-only buddies jacob.lastname alias where I put photos of me and talk about local issues, then my (filtered) digital "Jacob is mooshoe" that the rest of the internet gets to see.</p>
     <p>Here's my mandatory makeshift portfolio:</p>
     <ul>
-        <li><code><a href="https://github.com/mooshoe/personal-website" target="_blank">personal-website</a></code> · I thought I did a good job on this. It does everything a portfolio needs to do in 5 kilobytes of data.</li>
+        <li><code><a href="https://github.com/mooshoe/personal-website" target="_blank">personal-website</a></code> · I thought I did a good job on this. It does everything a portfolio needs to do. Needless to say, I am working on expanding this list xd.</li>
     </ul>
-    <p>Also here's some other stuff that I've done online:</p>
+    <p>And here's a list of all the blog post I've written here:</p>
     <ul>
         <li></li>    
     </ul>
