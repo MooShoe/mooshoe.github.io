@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/mooshoe
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://mooshoe.me
+  * I am mooshoe (https://keybase.io/mooshoe) on keybase.
+  * I have a public key ASAUa4S9FiQBH3GYcDW7sqCBBa4ARr-4v2GExijIGz13CAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120b8fed15bc6eb8304a5efd918f49e0c053350b3dfeb4f12f673beca0b526c27b30a",
+      "host": "keybase.io",
+      "kid": "0120146b84bd1624011f71987035bbb2a08105ae0046bfb8bf6184c628c81b3d77080a",
+      "uid": "f7a6153eded92ce8a920202712e11719",
+      "username": "mooshoe"
+    },
+    "merkle_root": {
+      "ctime": 1554499481,
+      "hash": "e9affdb9b3db8b7101f2244d93e99a984b0d57d3654e9166c6e4b41147c814d7122a5f4b1410d46a84d9ead47f8ca34516da8d665d66bc8fcec6d3307e5fdfd9",
+      "hash_meta": "1b746ede3b5b938c3ac3af56520bb327b93c61faf78103945a9d70e267d590b5",
+      "seqno": 5106431
+    },
+    "service": {
+      "entropy": "CWEylIWJwHnPsdMaj5sE4gTv",
+      "hostname": "mooshoe.me",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "3.1.2"
+  },
+  "ctime": 1554499489,
+  "expire_in": 504576000,
+  "prev": "208721014f315d2656847f4cc07e18086ccac9f8ff55e1bfc2efcbe1aac414d8",
+  "seqno": 27,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgFGuEvRYkAR9xmHA1u7KggQWuAEa/uL9hhMYoyBs9dwgKp3BheWxvYWTESpcCG8QgIIchAU8xXSZWhH9MwH4YCGzKyfj/VeG/wu/L4arEFNjEIMIQgYqAi2bvCHhKtjcjzFynNiLy1Ml+WBGrw41w0yOCAgHCo3NpZ8RAZEK/JGl+ifgOkFUu6ErhoyEBku6rgOShIEU5hIOlcsiBr/XjlAeRs6A+Y2O6aw+54Cqxp6qb1xLbIN3SOMz1AqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEICcExT10Jkdm/84oFJhyH4zURVazqpjjqNleuOcQFtODo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mooshoe
+
+==================================================================
