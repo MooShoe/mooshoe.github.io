@@ -1,0 +1,10 @@
+{
+    "m.server": "cow.modular.im:443"
+}
+meserver": {
+        "base_url": "https://cow.modular.im"
+    },
+    "m.identity_server": {
+        "base_url": "https://vector.im"
+    }
+}
