@@ -1,7 +1,5 @@
 {
-    "m.server": "cow.modular.im:443"
-}
-meserver": {
+    "m.homeserver": {
         "base_url": "https://cow.modular.im"
     },
     "m.identity_server": {
